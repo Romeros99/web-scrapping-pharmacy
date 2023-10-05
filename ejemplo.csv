@@ -1,0 +1,334 @@
+farmacia,p_activo,descripcion,precio,precio en uf
+Cruz Verde,paracetamol,Geniol Adultos Paracetamol 500 mg 20 Comprimidos,952,0.03
+Cruz Verde,paracetamol,Gesidol Paracetamol 1 gr 20 Comprimidos,6490,0.2
+Cruz Verde,paracetamol,Tapsin Puro Sin Cafeina Paracetamol 500 mg 16 Comprimidos,1190,0.04
+Cruz Verde,paracetamol,Geniol Caliente Día Paracetamol 400 mg Solución Oral 1 Sobre,512,0.02
+Cruz Verde,paracetamol,Geniol Caliente Noche Paracetamol 400 mg Solución Oral 1 Sobre,512,0.02
+Cruz Verde,paracetamol,Geniol Niños Paracetamol 160 mg 16 Comprimidos Masticables,1832,0.06
+Cruz Verde,paracetamol,Geniol Infantil Paracetamol 100 mg/mL Gotas 15 mL,1832,0.06
+Cruz Verde,paracetamol,Tapsin Niños Paracetamol 160 mg 16 Comprimidos Masticables,2152,0.07
+Cruz Verde,paracetamol,Tapsin M Migraña Paracetamol 400 mg Cafeína 33 mg 10 Comprimidos,1590,0.05
+Cruz Verde,paracetamol,Tapsin Plus Noche Paracetamol 650 mg Solución Oral 1 Sobre,600,0.02
+Cruz Verde,paracetamol,Tapsin Día-Noche Plus Paracetamol 400 mg 18 Comprimidos Recubiertos,3152,0.1
+Cruz Verde,paracetamol,Predual Pamabron 25 mg 12 Comprimidos,1690,0.05
+Cruz Verde,paracetamol,Tapsin Plus Día Paracetamol 650 mg Solución Oral 1 Sobre,600,0.02
+Cruz Verde,paracetamol,Tapsin Forte Paracetamol 650 mg 20 Comprimidos Recubiertos,1990,0.06
+Cruz Verde,paracetamol,Tapsin Periodo Pamabrom 25 mg 12 Comprimidos,1272,0.04
+Cruz Verde,paracetamol,Tapsin 1000 SC Paracetamol 1000 mg 20 Comprimidos Recubiertos,6390,0.19
+Cruz Verde,paracetamol,Xumadol Paracetamol 1000 mg 20 Comprimidos,8826,0.27
+Cruz Verde,paracetamol,"Doloten Tramadol 37,5 mg 30 Comprimidos Recubiertos",16628,0.5
+Cruz Verde,paracetamol,Desdol Clorzoxazona 300 mg 20 Comprimidos,6312,0.19
+Cruz Verde,paracetamol,"Zaledor-P Tramadol 37,5 mg 30 Comprimidos Recubiertos",10552,0.32
+Cruz Verde,paracetamol,Nastizol Compuesto Pseudoefedrina 30 mg/5 ml Jarabe 100 mL,7112,0.22
+Cruz Verde,paracetamol,Nastizol Día-Noche Pseudoefedrina 60 mg 18 Comprimidos,3032,0.09
+Cruz Verde,paracetamol,Nastizol Compuesto Pseudoefedrina 60 mg 10 Comprimidos,3192,0.1
+Cruz Verde,paracetamol,Brevex Paracetamol 300 mg 20 Comprimidos Recubiertos,9592,0.29
+Cruz Verde,paracetamol,"Zafin Tramadol 37,5 mg 28 Comprimidos Recubiertos",21240,0.64
+Cruz Verde,paracetamol,Paracetamol 500 mg 16 Comprimidos,744,0.02
+Cruz Verde,paracetamol,Gesidol Infantil Paracetamol 120 mg / 5 mL Jarabe 100 mL,7192,0.22
+Cruz Verde,paracetamol,"Nastizol Pediatrico Pseudoefedrina 7,5 mg / mL Gotas Orales 15 mL",11264,0.34
+Cruz Verde,paracetamol,Nastul Compuesto Pseudoefedrina 30 mg Jarabe 100 mL,6472,0.2
+Cruz Verde,paracetamol,Panadol Gotas Pediatricas Paracetamol 80 mg/ml Gotas 30 mL,5112,0.15
+Cruz Verde,paracetamol,Supracalm Paracetamol 1000 mg 20 Comprimidos Recubierto,9232,0.28
+Cruz Verde,paracetamol,Geniol Flu Pseudoefedrina 30 mg Jarabe 100 mL,4872,0.15
+Cruz Verde,paracetamol,Geniol Pediatrico Paracetamol 80 mg 16 Comprimidos,1512,0.05
+Cruz Verde,paracetamol,Geniol Flu Día-Noche Pseudoefedrina 60 mg 20 Comprimidos,2590,0.08
+Cruz Verde,paracetamol,Tapsin Periodo Pamabrom 25 mg 30 Comprimidos Sin Cafeina y con Tapa de Seguridad Childproof,2792,0.08
+Cruz Verde,paracetamol,Panadol Niños Paracetamol 100 mg / mL Gotas Orales 15 mL,2232,0.07
+Cruz Verde,paracetamol,Trio-Val Pseudoefedrina 30 mg Suspensión Oral 100 mL,11640,0.35
+Cruz Verde,paracetamol,Congestex Paracetamol 400 mg 10 Cápsulas,8232,0.25
+Cruz Verde,paracetamol,Winasorb Paracetamol 150 mg/5mL Jarabe 60 mL,4552,0.14
+Cruz Verde,paracetamol,Winasorb Paracetamol 100 mg Gotas 25 mL,4872,0.15
+Cruz Verde,paracetamol,Nastul Día y Noche Paracetamol 60 mg 20 Comprimidos,3672,0.11
+Cruz Verde,paracetamol,Sevedol Ácido Acetilsalicilico 65 mg 12 Comprimidos,2632,0.08
+Cruz Verde,paracetamol,Trio-Val Paracetamol 120 mg Gotas 15 mL,12712,0.38
+Cruz Verde,paracetamol,Xumadol Paracetamol 1000 mg 20 Sobres Efervecente Granulado,7432,0.23
+Cruz Verde,paracetamol,Congestex Paracetam 15 mg Gotas 15 mL,11192,0.34
+Cruz Verde,paracetamol,Trio-Val Día/Noche Pseudoefedrina 60 mg 20 Comprimidos,4990,0.15
+Cruz Verde,paracetamol,Tapsin InstaFLU DN Paracetamol 500 mg Pseudoefedrina Clorhidrato 60 mg 12+6 Comprimidos,5512,0.17
+Cruz Verde,paracetamol,Panadol Pediatrico Paracetamol 160 mg / 5 mL Jarabe 120 mL Sin Azucar,8952,0.27
+Cruz Verde,paracetamol,Panadol Advance Paracetamol 500 mg 10 Comprimidos Recubierto,2392,0.07
+Cruz Verde,paracetamol,Tapsin Paracetamol 100 mg/ml Gotas 15 mL,2792,0.08
+Cruz Verde,paracetamol,Paracetamol 125 mg 6 Supositorios,1072,0.03
+Cruz Verde,paracetamol,Tapsin Nocturno Paracetamol 500 mg 12 Comprimidos,1272,0.04
+Cruz Verde,paracetamol,Kitadol Paracetamol 160 mg 15 Comprimidos,2232,0.07
+Cruz Verde,paracetamol,Trio-Val Pseudoefedrina 60 mg 10 Comprimidos,3990,0.12
+Cruz Verde,paracetamol,"Cronotan Tramadol 37,5 mg 30 Comprimidos",11424,0.35
+Cruz Verde,paracetamol,Kitadol Infantil Paracetamol 100 mg Gotas 15 mL,2632,0.08
+Cruz Verde,paracetamol,Paracetamol Infantil Paracetamol 80 mg 100 Comprimidos,432,0.01
+Cruz Verde,paracetamol,Paracetamol 100 mg Gotas 15 mL,1352,0.04
+Cruz Verde,paracetamol,Tapsin Analgésico Paracetamol 400 mg 12 Comprimidos,1192,0.04
+Cruz Verde,paracetamol,Panadol Niños Paracetamol 160 mg / 5 mL Jarabe 60 mL,6312,0.19
+Cruz Verde,paracetamol,Tapsin Paracetamol 400 mg Cafeina 33 mg 30 Comprimidos con Tapa de Seguridad Childproof,2552,0.08
+Cruz Verde,paracetamol,Tapsin Forte Paracetamol 650 mg 30 Comprimidos Recibiertos con Tapa De Seguridad Childproof,2792,0.08
+Cruz Verde,paracetamol,Panadol Pediatrico Paracetamol 80 mg 16 Comprimidos,2632,0.08
+Cruz Verde,paracetamol,Cortigrip Paracetamol 30 mg 10 Comprimidos,3032,0.09
+Cruz Verde,paracetamol,Nastul Pseudoef 60 mg 10 Comprimidos,3992,0.12
+Cruz Verde,paracetamol,"Tramavolta 37,5/325 Tramadol 37,5 mg 30 Comprimidos",7432,0.23
+Cruz Verde,paracetamol,Tapsin Noche Compuesto Antigripal Paracetamol 400 mg Noscapina 10 mg Clorfenamina 4 mg Polvo para Soluc.Oral 1 Sobre Sabor Limon / Miel / Jengibre,472,0.01
+Cruz Verde,paracetamol,"Zaldiar Tramadol 37,5 mg 20 Comprimidos Recubiertos",20632,0.62
+Cruz Verde,paracetamol,Kitadol Paracetamol 120 mg/5ml Jarabe 60 mL,7672,0.23
+Cruz Verde,paracetamol,Congestex Paracetam 15 mg/5ml Jarabe 120 mL,8392,0.25
+Cruz Verde,paracetamol,Dolider Ácido Acetilsalicilico 65 mg 10 Comprimidos,2552,0.08
+Cruz Verde,paracetamol,Dropol Paracetamol 1000 mg 20 Comprimidos,6312,0.19
+Cruz Verde,paracetamol,"Analgex SAP Tramadol 37,5 mg 20 Comprimidos Recubiertos",17992,0.54
+Cruz Verde,paracetamol,"Cronus Tramadol 37,5 mg 20 Comprimidos",15112,0.46
+Cruz Verde,paracetamol,Tapsin SC Paracetamol 1000 mg Polvo para Soluc. Oral Efervescente 1 Sobre Sabor Limon,6392,0.19
+Cruz Verde,paracetamol,Nastigrip Antigripal Día-Noche Paracetamol 300 mg 18 Comprimidos,1912,0.06
+Cruz Verde,paracetamol,Codeipar Paracetamol 500 mg 12 Comprimidos,6768,0.2
+Cruz Verde,paracetamol,Paracetamol 80 mg 20 Comprimidos,1272,0.04
+Cruz Verde,paracetamol,Panadol Advance Paracetamol 500 mg 12 Comprimidos,2392,0.07
+Cruz Verde,paracetamol,Panadol Niños Paracetamol 160 mg / 5 mL Jarabe 90 mL,7990,0.24
+Cruz Verde,paracetamol,Panagesic Periodo Menstrual Pamabrom 25 mg 10 Comprimidos,1592,0.05
+Cruz Verde,paracetamol,Tapsin Dia Compuesto Antigripal Paracetamol 400 mg Noscapina 10 mg Cafeina 33 mg Polvo para Soluc.Oral  1 Sobre Sabor Limon / Miel / Jengibre,472,0.01
+Cruz Verde,ácido acetilsalicílico,Hassapirin Puro Acido Acetilsalicilico 500 mg 20 Comprimidos,990,0.03
+Cruz Verde,ácido acetilsalicílico,Hassapirin Infantil Ácido Acetilsalicilico 100 mg 30 Comprimidos,1750,0.05
+Cruz Verde,ácido acetilsalicílico,Cardioaspirina 100 EC Ácido Acetilsalicílico 100 mg 20 Comprimidos,5912,0.18
+Cruz Verde,ácido acetilsalicílico,Aspirina Adulto Ácido Acetilsalicílico 500 mg 20 Comprimidos,1992,0.06
+Cruz Verde,ácido acetilsalicílico,Tapsin M Migraña Paracetamol 400 mg Cafeína 33 mg 10 Comprimidos,1590,0.05
+Cruz Verde,ácido acetilsalicílico,Disgren AAS 81 Ácido Acetilsalicílico 81 mg 30 Comprimidos Recubiertos,1990,0.06
+Cruz Verde,ácido acetilsalicílico,Cardioaspirina 325 EC Acido Acetilsalicilico 325 mg 30 Comprimidos,12552,0.38
+Cruz Verde,ácido acetilsalicílico,Hassapirin Infantil Ácido Acetilsalicílico 100 mg 20 Comprimidos,1432,0.04
+Cruz Verde,ácido acetilsalicílico,Acido Acetilsalicilico 100 mg 100 Comprimidos,2832,0.09
+Cruz Verde,ácido acetilsalicílico,Cafiaspirina Ácido Acetilsalicilico 40 mg 40 Comprimidos,6552,0.2
+Cruz Verde,ácido acetilsalicílico,Trinomia 100/20/5 Acido Acetilsalicilico 100 mg 28 Cápsulas,18872,0.57
+Cruz Verde,ácido acetilsalicílico,Trinomia Acido Acetilsalicilico 100 mg 28 Cápsulas,19432,0.59
+Cruz Verde,ácido acetilsalicílico,Sevedol Ácido Acetilsalicilico 65 mg 12 Comprimidos,2632,0.08
+Cruz Verde,ácido acetilsalicílico,Obleas Chinas 5 Acido Acetilsalisilico 15 mg 5 Obleas,2392,0.07
+Cruz Verde,ácido acetilsalicílico,Aspirina Adulto Acido Acetilsalicilico 500 mg 40 Comprimidos,2232,0.07
+Cruz Verde,ácido acetilsalicílico,Aspirina para Niños Acido Acetilsalicilico 100 mg 42 Comprimidos,3192,0.1
+Cruz Verde,ácido acetilsalicílico,Cafiaspirina AAS 40 mg 10 Comprimidos,1752,0.05
+Cruz Verde,ácido acetilsalicílico,Dolider Ácido Acetilsalicilico 65 mg 10 Comprimidos,2552,0.08
+Cruz Verde,ácido acetilsalicílico,Coplavix Clopidogrel 75 mg 28 Comprimidos,56192,1.7
+Cruz Verde,ácido acetilsalicílico,Aspirina Forte Ácido Acetilsalicilico 650 mg 10 Comprimidos,1752,0.05
+Cruz Verde,ácido acetilsalicílico,Cardioaspirina 100 EC Ácido Acetilsalicílico 100 mg 50 Comprimidos,8952,0.27
+Cruz Verde,ácido acetilsalicílico,Trinomia 100/20/10 Acido Acetilsalicilico 100 mg 28 Cápsulas,19432,0.59
+Cruz Verde,losartán,Lopren Losartan Potasico 50 mg 30 Comprimidos Recubiertos,3432,0.1
+Cruz Verde,losartán,Losartan Potasico 100 mg 30 Comprimidos,4690,0.14
+Cruz Verde,losartán,Corodin Losartan Potasico 50 mg 30 Comprimidos,17832,0.54
+Cruz Verde,losartán,Losapres Losartan Potasico 100 mg 30 Comprimidos Recubierto,15592,0.47
+Cruz Verde,losartán,Corodin Losartan Potasico 100 mg 30 Comprimidos,16392,0.5
+Cruz Verde,losartán,Losartan Potasico 50 mg 30 Comprimidos,2064,0.06
+Cruz Verde,losartán,Losapres Losartán Potásico 50 mg 30 Comprimidos Recubiertos,20232,0.61
+Cruz Verde,losartán,Lopren-D Losartan 50 mg 30 Comprimidos,6632,0.2
+Cruz Verde,losartán,Corodin-D Losartan 50 mg 30 Comprimidos,24552,0.74
+Cruz Verde,losartán,Hyzaar Forte Losartan 100 mg 30 Comprimidos,15512,0.47
+Cruz Verde,losartán,Simperten-D Losartan 100 mg 30 Comprimidos Recubierto,22792,0.69
+Cruz Verde,losartán,Cozaar Losartan Potasico 50 mg 30 Comprimidos,17640,0.53
+Cruz Verde,losartán,"Losartan Potásico 50 mg Hidroclorotiazida 12,5 mg 30 Comprimidos",4152,0.13
+Cruz Verde,losartán,Corodin-D Losartan 100 mg 30 Comprimidos Recubierto,22552,0.68
+Cruz Verde,losartán,Simperten-D Losartan 50 mg 30 Comprimidos Recubierto,21192,0.64
+Cruz Verde,losartán,Losapres-D 100/25 Losartan 100 mg 30 Comprimidos Recubierto,20392,0.62
+Cruz Verde,losartán,Losapres-D 12.5/50 Losartan 50 mg 30 Comprimidos Recubierto,19512,0.59
+Cruz Verde,metformina,Glimefor XR Metformina 500 mg 30 Comprimidos,6790,0.21
+Cruz Verde,metformina,Glimefor 850 Metformina 850 mg 30 Comprimidos Recubiertos,5390,0.16
+Cruz Verde,metformina,Glimefor XR Metformina de Liberación Prolongada 1000 mg 60 Comprimidos,21490,0.65
+Cruz Verde,metformina,Glucosan XR Metformina Clorhidrato 750 mg 60 Comprimidos Recubiertos de Liberacion Prolongada,15490,0.47
+Cruz Verde,metformina,Glaupax 500 Metformina 500 mg 30 Comprimidos Recubiertoss,5990,0.18
+Cruz Verde,metformina,Glicenex Sr Metformina 1000 mg 30 Comprimidos,11490,0.35
+Cruz Verde,metformina,Glaupax XR Metformina 1000 mg 30 Comprimidos,12990,0.39
+Cruz Verde,metformina,Glimefor XR Metformina 750 mg 30 Comprimidos,11590,0.35
+Cruz Verde,metformina,Glimefor 850 Metformina 850 mg 60 Comprimidos Recubiertos,11090,0.34
+Cruz Verde,metformina,Glicenex SR  Metformina 750 mg 30 Comprimidos,15336,0.46
+Cruz Verde,metformina,Glimefor XR Metformina de Liberación Prolongada 1000 mg 30 Comprimidos,10990,0.33
+Cruz Verde,metformina,Glaupax XR Metformina 750 mg 30 Comprimidos de Liberación Prolongada,11490,0.35
+Cruz Verde,metformina,Glaupax XR Metformina 500 mg 30 Comprimidos,7990,0.24
+Cruz Verde,metformina,Glicenex Duo Metformina 500 mg 30 Comprimidos,9432,0.29
+Cruz Verde,metformina,Glucovance Metformina 500 mg 30 Comprimidos Recubiertos,14712,0.45
+Cruz Verde,metformina,Hipoglucin Metformina 1000 mg 30 Comprimidos Recubiertos,14872,0.45
+Cruz Verde,metformina,Hipoglucin 1000 Lp Metformina 1000 mg 60 Comprimidos,20192,0.61
+Cruz Verde,metformina,Hipoglucin Metformina 850 mg 60 Comprimidos Recubiertos,13432,0.41
+Cruz Verde,metformina,Glicenex Metformina 500 mg Comprimidos Recubiertos,5192,0.16
+Cruz Verde,metformina,Metformina 850 mg 30 Comprimidos,1912,0.06
+Cruz Verde,metformina,Glifortex Metformina 850 mg 30 Comprimidos,9952,0.3
+Cruz Verde,metformina,Glicenex Metformina 850 mg 30 Comprimidos Recubiertos,7832,0.24
+Cruz Verde,metformina,Hipoglucin Metformina 850 mg 30 Comprimidos,7352,0.22
+Cruz Verde,metformina,Glaupax 850 Metformina 850 mg 30 Comprimidos Recubiertos,5112,0.15
+Cruz Verde,metformina,Hipoglucin 500 LP Metformina 500 mg 60 Comprimidos Liberacion Prolongada,10672,0.32
+Cruz Verde,metformina,Hipoglucin 500 LP Metformina 500 mg 30 Comprimidos Liberacion Prolongada,7192,0.22
+Cruz Verde,metformina,Glucosan XR Metformina Clorhidrato 1000 mg 60 Comprimidos Recubiertos de Liberacion Prolongada,19112,0.58
+Cruz Verde,metformina,Metformina 850 mg 60 Comprimidos,3992,0.12
+Cruz Verde,metformina,Glifortex XR Metformina 750 mg 30 Comprimidos de Liberación Prolongada,10552,0.32
+Cruz Verde,metformina,Hipoglucin 1000 Lp Metformina 1000 mg 30 Comprimidos,12352,0.37
+Cruz Verde,metformina,Glicenex Sr  Metformina 500 mg 30 Comprimidos,6712,0.2
+Cruz Verde,metformina,Hipoglucin 750 LP Metformina 750 mg 60 Comprimidos Liberación Prolongada,17512,0.53
+Cruz Verde,metformina,Hipoglucin 750 Lp Metformina 750 mg 30 Comprimidos Liberacion Prolongada,10632,0.32
+Cruz Verde,metformina,Glucophage Metformina 500 mg 30 Comprimidos,5792,0.18
+Cruz Verde,metformina,Glifortex Xr Metformina 500 mg 30 Comprimidos Liberación Prolongada,7112,0.22
+Cruz Verde,metformina,"Jardiance Duo Empagliflozina 12,5 mg 60 Comprimidos Recubiertos",37752,1.14
+Cruz Verde,metformina,"Trayenta Duo Linagliptina 2,5 mg 60 Comprimidos",37672,1.14
+Cruz Verde,metformina,Kombiglyze XR Saxagliptina 5 mg 28 Comprimidos,42792,1.3
+Cruz Verde,metformina,Hipoglucin DA Metformina 500 mg 30 Comprimidos,9352,0.28
+Cruz Verde,metformina,Glukaut Metformina 500 mg 60 Comprimidos,8792,0.27
+Cruz Verde,metformina,Glucophage 500 XR Metformina 500 mg 30 Comprimidos,7664,0.23
+Cruz Verde,metformina,Glucophage Metformina 850 mg 30 Comprimidos,7990,0.24
+Cruz Verde,metformina,"Jardiance Duo Empagliflozina 12,5 mg 60 Comprimidos",37392,1.13
+Cruz Verde,metformina,Xigduo XR Dapagliflozina 5 mg 56 Comprimidos,34072,1.03
+Cruz Verde,metformina,Janumet XR 100/1000 Sitagliptina 28 Comprimidos,47672,1.44
+Cruz Verde,metformina,Galvus Met 50/500 Metformina 500 mg 28 Comprimidos,24392,0.74
+Cruz Verde,metformina,Galvus Met 50/1000 Metformina 1000 mg 28 Comprimidos,26272,0.8
+Cruz Verde,metformina,Glafornil XR Metformina 1000 mg 30 Comprimidos Liberación Prolongada,20312,0.62
+Cruz Verde,metformina,Janumet 50/500 Sitagliptina 50 mg 28 Comprimidos,26872,0.81
+Cruz Verde,metformina,Janumet 50/850 Sitagliptina 50 mg 28 Comprimidos Recubierto,27192,0.82
+Cruz Verde,metformina,Galvus Met Vildagliptina 50 mg / Metformina 850 mg de 28 Comprimidos,28952,0.88
+Cruz Verde,metformina,Janumet 50/500 Sitagliptina 50 mg 56 Comprimidos Recubierto,43752,1.32
+Cruz Verde,metformina,Glifortex XR Metformina 1000 mg 30 Comprimidos Recubiertos de Liberación Prolongada,12472,0.38
+Cruz Verde,metformina,Janumet XR 50/1000 Sitagliptina 50 mg 56 Comprimidos,46312,1.4
+Cruz Verde,metformina,"Trayenta Duo Linagliptina 2,5 mg 60 Comprimidos Recubiertos",37992,1.15
+Cruz Verde,metformina,Janumet 50/1000 Sitagliptina 50 mg 28 Comprimidos Recubierto,27408,0.83
+Cruz Verde,metformina,Galvus Met Vildagliptina 50 mg 56 Comprimidos Recubierto Axon,43736,1.32
+Cruz Verde,metformina,Glucophage Metformina 1000 mg 30 Comprimidos Recubiertos,17752,0.54
+Cruz Verde,metformina,Galvus Met Vildagliptina 50 mg 56 Comprimidos Recubierto,42992,1.3
+Cruz Verde,metformina,"Trayenta Duo Linagliptina 2,5 mg 60 Comprimidos",35832,1.09
+Cruz Verde,metformina,Janumet 50/850 Sitagliptina 50 mg 56 Comprimidos Recubiertos,44072,1.33
+Cruz Verde,metformina,Janumet 50/1000 Sitagliptina 50 mg 56 Comprimidos,42752,1.29
+Cruz Verde,metformina,Glucophage Forte Metformina 850 mg 60 Comprimidos Recubiertos,15990,0.48
+Cruz Verde,metformina,Xigduo XR Dapagliflozina 10 mg 28 Comprimidos,31672,0.96
+Cruz Verde,metformina,"Kombiglyze XR Saxagliptina 2,79 mg 56 Comprimidos Recubiertos",42792,1.3
+Cruz Verde,metformina,Galvus Met Vildagliptina 50 mg / metformina 500 mg con 56 Comprimidos Recubiertos,46472,1.41
+Cruz Verde,metformina,Glucophage 750 Xr Metformina 750 mg 30 Comprimidos,14792,0.45
+Cruz Verde,metformina,Glucovance Metformina 1000 mg 30 Comprimidos,19512,0.59
+Cruz Verde,metformina,Glafornil Metformina 850 mg 60 Comprimidos Recubiertos,17272,0.52
+Cruz Verde,metformina,Glafornil Metformina 500 mg 30 Comprimidos Recubiertos,7912,0.24
+Cruz Verde,metformina,Glafornil Metformina 850 mg 30 Comprimidos Recubiertos,12792,0.39
+Cruz Verde,metformina,Glafornil Metformina 1000 mg 30 Comprimidos Recubiertos,20352,0.62
+Cruz Verde,metformina,Glafornil XR Metformina 500 mg 30 Comprimidos Liberacion Prolongada,8952,0.27
+Cruz Verde,metformina,"Glicenex Duo Metformina 2,5 mg 30 Comprimidos",9032,0.27
+Cruz Verde,metformina,"Glucovance Metformina 2,5 mg 30 Comprimidos",15328,0.46
+Cruz Verde,metformina,Glafornil XR Metformina 750 mg 30 Comprimidos Liberación Prolongada,16872,0.51
+Cruz Verde,atorvastatina,Hipolixan Atorvastatina 20 mg 30 Comprimidos,16072,0.49
+Cruz Verde,atorvastatina,Lipoten Atorvastatina 40 mg 28 Comprimidos Recubiertos,26589,0.81
+Cruz Verde,atorvastatina,Hipolixan Atorvastatina 10 mg 30 Comprimidos Recubiertos,8831,0.27
+Cruz Verde,atorvastatina,Lipoten Atorvastatina 80 mg 28 Comprimidos Recubiertos,28263,0.86
+Cruz Verde,atorvastatina,Toresta 40 Atorvastatina 40 mg 30 Comprimidos Recubiertos,19990,0.61
+Cruz Verde,atorvastatina,Toresta 80 Atorvastatina 80 mg 30 Comprimidos Recubiertos,21990,0.67
+Cruz Verde,atorvastatina,Orvakare Atorvastatina 40 mg 30 Comprimidos Recubiertos,14074,0.43
+Cruz Verde,atorvastatina,Colmibe Atorvastatina / Ezetimiba 10 mg / 10 mg 30 Comprimidos,25792,0.78
+Cruz Verde,atorvastatina,Colmibe Atorvastatina / Ezetimiba 40 mg / 10 mg 30 Comprimidos,30208,0.91
+Cruz Verde,atorvastatina,Colmibe Atorvastatina / Ezetimiba 20 mg / 10 mg 30 Comprimidos,26832,0.81
+Cruz Verde,atorvastatina,Atorvastatina 20 mg 30 Comprimidos,2592,0.08
+Cruz Verde,atorvastatina,Atorvastatina 10 mg 30 Comprimidos,2072,0.06
+Cruz Verde,atorvastatina,Atorvastatina 10 mg 60 Comprimidos Recubiertos,3912,0.12
+Cruz Verde,atorvastatina,Trinomia 100/20/5 Acido Acetilsalicilico 100 mg 28 Cápsulas,18872,0.57
+Cruz Verde,atorvastatina,Trinomia Acido Acetilsalicilico 100 mg 28 Cápsulas,19432,0.59
+Cruz Verde,atorvastatina,Lipitor Atorvastatina 40 mg 30 Comprimidos Recubiertos,54632,1.65
+Cruz Verde,atorvastatina,Lipitor Atorvastatina 20 mg 90 Comprimidos Recubierto,79992,2.42
+Cruz Verde,atorvastatina,Lipitor Atorvastatina 10 mg 60 Comprimidos Recubiertos,53032,1.61
+Cruz Verde,atorvastatina,Trinomia 100/20/10 Acido Acetilsalicilico 100 mg 28 Cápsulas,19432,0.59
+Cruz Verde,atorvastatina,Lipitor Atorvastatina 80 mg 30 Comprimidos Recubiertos,59560,1.8
+Cruz Verde,atorvastatina,Lipitor Atorvastatina 20 mg 30 Comprimidos Recubiertos,57112,1.73
+Cruz Verde,atorvastatina,Caduet Amlodipino 5 mgm 30 Comprimidos Recubierto,58232,1.76
+Cruz Verde,atorvastatina,Lipitor Atorvastatina 10 mg 30 Comprimidos Recubiertoss,39672,1.2
+Farmacias Ahumada,paracetamol,Paracetamol 500 mg x 16 Comprimidos,995,0.03
+Farmacias Ahumada,paracetamol,Tapsin 1g Efervescente X 20 Sobres,8095,0.25
+Farmacias Ahumada,paracetamol,Tramadol /Paracetamol 325/37.5 Mg 30c R,8195,0.25
+Farmacias Ahumada,paracetamol,Gesidol Paracetamol Bioe.1gr X 20comp,6995,0.21
+Farmacias Ahumada,paracetamol,Tapsin 160 mg x 16 Comprimidos Masticables,8395,0.25
+Farmacias Ahumada,paracetamol,Tapsin 100 mg/mL  x 15 mL Solución Oral Para Gotas,3045,0.09
+Farmacias Ahumada,paracetamol,Kitadol 100 mg/mL x 15 mL Solución Oral Para Gotas,3995,0.12
+Farmacias Ahumada,paracetamol,Tapsin Compuesto Dia 5 g x 6 Sobres Polvo Para Solución Oral,3195,0.1
+Farmacias Ahumada,paracetamol,Kitadol 120 mg/5 mL x 60 mL Jarabe,3995,0.12
+Farmacias Ahumada,paracetamol,Tapsin 1000 mg SC x 20 Comprimidos Recubiertos,3445,0.1
+Farmacias Ahumada,paracetamol,Kitadol Forte x 10 Comprimidos Recubiertos,8995,0.27
+Farmacias Ahumada,paracetamol,Tapsin M 30 Cap,10295,0.31
+Farmacias Ahumada,paracetamol,Tapsin Nocturno Caja 12 Comp.Displ.,1445,0.04
+Farmacias Ahumada,paracetamol,Tapsin Limon Miel Jengibre Dia X 6,3495,0.11
+Farmacias Ahumada,paracetamol,Predual Caja 10 Comp.,2395,0.07
+Farmacias Ahumada,paracetamol,Xumadol 1 g x 20 Comprimidos,2495,0.08
+Farmacias Ahumada,paracetamol,Tapsin Instaflu DN x 18 Comprimidos,9395,0.28
+Farmacias Ahumada,paracetamol,Sevedol x 12 Comprimidos,6445,0.2
+Farmacias Ahumada,paracetamol,Tapsin Periodo x 12 Comprimidos,2995,0.09
+Farmacias Ahumada,paracetamol,Tapsin Forte x 20 Comprimidos Recubiertos,1995,0.06
+Farmacias Ahumada,paracetamol,Nastul Compuesto x 100 mL Jarabe,3645,0.11
+Farmacias Ahumada,paracetamol,Panadol Extra Advance 65/500 mg x 14 Comprimidos Recubiertos,8945,0.27
+Farmacias Ahumada,paracetamol,Tapsin x 12 Comprimidos,3095,0.09
+Farmacias Ahumada,paracetamol,Tapsin Puro Sin Cafeina 500 mg x 24 Comprimidos,1845,0.06
+Farmacias Ahumada,ácido acetilsalicílico,Aspirina 500 Mg Caja 100comp,8145,0.25
+Farmacias Ahumada,ácido acetilsalicílico,Aspirina 100 mg x 98 Comprimidos,5995,0.18
+Farmacias Ahumada,ácido acetilsalicílico,Aspirina 100 mg x 42 Comprimidos,7995,0.24
+Farmacias Ahumada,ácido acetilsalicílico,Sevedol x 12 Comprimidos,3995,0.12
+Farmacias Ahumada,ácido acetilsalicílico,Aspirina 500 mg Adulto x 40 Comprimidos,2995,0.09
+Farmacias Ahumada,ácido acetilsalicílico,Cafiaspirina x 40 Comprimidos,2695,0.08
+Farmacias Ahumada,ácido acetilsalicílico,Nexium 40 mg x 28 Comprimidos Con Recubrimiento Entérico,9795,0.3
+Farmacias Ahumada,ácido acetilsalicílico,Cardioaspirina EC 100 mg x 20 Comprimidos Con Recubrimiento Entérico,46395,1.41
+Farmacias Ahumada,ácido acetilsalicílico,Cardioaspirina EC 325 mg x 30 Comprimidos Con Recubrimiento Entérico,6995,0.21
+Farmacias Ahumada,ácido acetilsalicílico,Cardioaspirina EC 100 mg x 50 Comprimidos Con Recubrimiento Entérico,16245,0.49
+Farmacias Ahumada,ácido acetilsalicílico,Acido Acetilsalic.100mg 100com.,11195,0.34
+Farmacias Ahumada,ácido acetilsalicílico,Nexium 20 mg x 28 Comprimidos Con Recubrimiento Entérico,3745,0.11
+Farmacias Ahumada,losartán,"Losartan + Hidroclorotiazida 50 mg_12,5 mg x 30 Comprimidos Recubiertos",5395,0.16
+Farmacias Ahumada,losartán,"Simperten-D 50 mg/12,5 mg x 30 Comprimidos Recubiertos",27395,0.83
+Farmacias Ahumada,losartán,Simperten 50 mg x 30 Comprimidos Recubiertos,7695,0.23
+Farmacias Ahumada,losartán,"Hyzaar 50 mg/12,5 mg x 30 Comprimidos Recubiertos",23895,0.72
+Farmacias Ahumada,losartán,Hyzaar Forte 100 mg/25 mg x 30 Comprimidos Recubiertos,19895,0.6
+Farmacias Ahumada,losartán,Simperten-D 100 mg/25 mg x 30 Comprimidos Recubiertos,29745,0.9
+Farmacias Ahumada,losartán,Cozaar 50 mg x 30 Comprimidos Recubiertos,22895,0.69
+Farmacias Ahumada,losartán,Cozaar 100 mg x 30 Comprimidos Recubiertos,23995,0.73
+Farmacias Ahumada,losartán,Corodin 100mg. Caja 30 Comp.,21195,0.64
+Farmacias Ahumada,losartán,Losapres 100 mg x 30 Comprimidos Recubiertos,19595,0.59
+Farmacias Ahumada,losartán,Corodin 50 mg x 30 Comprimidos Recubiertos,23095,0.7
+Farmacias Ahumada,losartán,Losapres 50 mg x 30 Comprimidos Recubiertos,26295,0.8
+Farmacias Ahumada,losartán,Corodin D Forte x 30 Comprimidos Recubiertos,29195,0.88
+Farmacias Ahumada,losartán,Losapres D 100 mg/25 mg x 30 Comprimidos Recubiertos,25595,0.78
+Farmacias Ahumada,losartán,"Losapres D 50 mg/12,5 mg x 30 Comprimidos Recubiertos",25395,0.77
+Farmacias Ahumada,losartán,Corodin D x 30 Comprimidos Recubiertos,31895,0.97
+Farmacias Ahumada,metformina,Metformina Clorhidrato 850mg. 60com.,2995,0.09
+Farmacias Ahumada,metformina,Trayenta 5 mg x 30 Comprimidos Recubiertos,47195,1.43
+Farmacias Ahumada,metformina,Metformina 850mg. Caja 30 Comp.Rec,2495,0.08
+Farmacias Ahumada,metformina,"Trayenta Duo 2,5 mg/500 mg x 60 Comprimidos Recubiertos",45195,1.37
+Farmacias Ahumada,metformina,Janumet 50 mg/850 mg x 56 Comprimidos Recubiertos,55395,1.68
+Farmacias Ahumada,metformina,Victoza 6 mg/mL x 1 Dispositivo Prellenado Solucion Inyectable,84595,2.56
+Farmacias Ahumada,metformina,"Trayenta Duo 2,5 mg/850 mg x 60 Comprimidos Recubiertos",46595,1.41
+Farmacias Ahumada,metformina,"Trayenta Duo 2,5 mg/1000 mg x 60 Comprimidos Recubiertos",47195,1.43
+Farmacias Ahumada,metformina,Galvus Met 50 mg/850 mg x 56 Comprimidos Recubiertos,53595,1.62
+Farmacias Ahumada,metformina,"Jardiance Duo 12,5 mg/1000 mg x 60 Comprimidos Recubiertos",47295,1.43
+Farmacias Ahumada,metformina,Galvus Met 50 mg/500 mg x 28 Comprimidos Recubiertos,32495,0.98
+Farmacias Ahumada,metformina,Galvus Met 50 mg/500 mg x 56 Comprimidos Recubiertos,58095,1.76
+Farmacias Ahumada,metformina,"Jardiance Duo 12,5 mg/850 mg x 60 Comprimidos Recubiertos",47195,1.43
+Farmacias Ahumada,metformina,Janumet 50 mg/850 mg x 28 Comprimidos Recubiertos,35195,1.07
+Farmacias Ahumada,metformina,Janumet 50 mg/500 mg x 28 Comprimidos Recubiertos,34495,1.04
+Farmacias Ahumada,metformina,Hipoglucin DA 500 mg/5 mg x 30 Comprimidos Recubiertos,12695,0.38
+Farmacias Ahumada,metformina,Janumet 50 mg/1000 mg x 28 Comprimidos Recubiertos,35095,1.06
+Farmacias Ahumada,metformina,Metformina LP 750 mg x 30 Comprimidos De Liberación Prolongada,9595,0.29
+Farmacias Ahumada,metformina,Metformina Clorhidrato LP 500 mg x 30 Comprimidos De Liberación Prolongada,6445,0.2
+Farmacias Ahumada,metformina,Janumet 50 mg/500 mg x 56 Comprimidos Recubiertos,56595,1.71
+Farmacias Ahumada,metformina,Janumet 50 mg/1000 mg x 56 Comprimidos Recubiertos,54395,1.65
+Farmacias Ahumada,metformina,Glaupax 850 Mg X 30comp Rec,6845,0.21
+Farmacias Ahumada,metformina,Glaupax 500 Mg X 30comp Rec,7695,0.23
+Farmacias Ahumada,metformina,GLAFORNIL 1000MG. CAJA 30 COMP.,26095,0.79
+Farmacias Ahumada,metformina,Galvus 50 mg x 28 Comprimidos,32595,0.99
+Farmacias Ahumada,metformina,Glafornil XR 500 mg x 30 Comprimidos De Liberación Prolongada,11195,0.34
+Farmacias Ahumada,metformina,Galvus 50 mg x 56 Comprimidos,47095,1.43
+Farmacias Ahumada,metformina,Glucophage Xr 500mg.Caja 30comp.,9395,0.28
+Farmacias Ahumada,metformina,Kombiglyze XR 5 mg/1000 mg x 28 Comprimidos Recubiertos de Liberación Extendida,55095,1.67
+Farmacias Ahumada,metformina,Galvus Met 50 mg/1000 mg x 56 Comprimidos Recubiertos,53995,1.64
+Farmacias Ahumada,metformina,Galvus Met 50 mg/1000 mg x 28 Comprimidos Recubiertos,32195,0.97
+Farmacias Ahumada,metformina,Glafornil 850 mg x 60 Comprimidos Recubiertos,22195,0.67
+Farmacias Ahumada,metformina,Galvus Met 50 mg/850 mg x 28 Comprimidos Recubiertos,37795,1.14
+Farmacias Ahumada,metformina,Glucophage Forte  850mg.Caja 30 Comp,14395,0.44
+Farmacias Ahumada,metformina,Janumet XR 50 mg/1000 mg x 56 Comprimidos De Liberación Porolongada,59895,1.81
+Farmacias Ahumada,metformina,Forxiga 10 mg x 28 Comprimidos Recubiertos,44895,1.36
+Farmacias Ahumada,atorvastatina,LIPOTEN 80 MG 28COMP,31295,0.95
+Farmacias Ahumada,atorvastatina,LOWDEN 10MG. CAJA 30 COMP.,18295,0.55
+Farmacias Ahumada,atorvastatina,Lowden 10 mg x 60 Comprimidos Recubiertos,35795,1.08
+Farmacias Ahumada,atorvastatina,LIPOTEN 40 MG 28COMP,29395,0.89
+Farmacias Ahumada,atorvastatina,HIPOLIXAN 10MG. CAJA 30 COMP.,10695,0.32
+Farmacias Ahumada,atorvastatina,Atorvastatina 10 mg x 30 Comprimidos Recubiertos,2695,0.08
+Farmacias Ahumada,atorvastatina,LOWDEN 20MG. CAJA 30 COMP.,30995,0.94
+Farmacias Ahumada,atorvastatina,LOWDEN 20MG. 60 COMP. REC.,47195,1.43
+Farmacias Ahumada,atorvastatina,LOWDEN 40MG. CAJA 30 COMP.,33895,1.03
+Farmacias Ahumada,atorvastatina,Lipitor 10 mg x 30 Comprimidos Recubiertos,50995,1.54
+Farmacias Ahumada,atorvastatina,Lipitor 40 mg x 30 Comprimidos Recubiertos,66995,2.03
+Farmacias Ahumada,atorvastatina,Lipitor 80 mg x 30 Comprimido Recubiertos,72995,2.21
+Farmacias Ahumada,atorvastatina,Lipitor 20 mg x 60 Comprimidos Recubiertos,93595,2.83
+Farmacias Ahumada,atorvastatina,Lipitor 20 mg x 90 Comprimidos Recubiertos,101995,3.09
+Farmacias Ahumada,atorvastatina,Lipitor 10 mg x 60 Comprimidos Recubiertos,64995,1.97
+Farmacias Ahumada,atorvastatina,Lipitor 20 mg x 30 Comprimidos Recubiertos,69995,2.12
+Farmacias Ahumada,atorvastatina,Caduet 5mg/10mg Caja 30 Comp. Rec.,73695,2.23
+Farmacias Ahumada,atorvastatina,COLMIBE 40MG/10MG CAJA 30COMP,39395,1.19
+Farmacias Ahumada,atorvastatina,COLMIBE 10MG/10MG CAJA 30COMP,33195,1.01
+Farmacias Ahumada,atorvastatina,COLMIBE 20MG/10MG CAJA 30COMP,35695,1.08
+Farmacias Ahumada,atorvastatina,Trinomia 100/20/10mg. 28 Cap.,24995,0.76
+Farmacias Ahumada,atorvastatina,"Trinomia 100/20/2,5 Mg Caja 28 Cap.",24595,0.74
+Farmacias Ahumada,atorvastatina,Trinomia 100/20/5 Mg. Caja  28cap.,24345,0.74
+Farmacias Ahumada,atorvastatina,Lopid 900 mg x 30 Comprimidos Recubiertos,57995,1.76
+Farmacias Ahumada,atorvastatina,Ezetrol 10 mg x 30 Comprimidos,35895,1.09
